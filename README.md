@@ -1,24 +1,15 @@
-# Cyber-Crime-Cell
-Web Programming Project
-
-Website development for “Cyber Crime Cell”.
-This online submission system supports following users:
+The website offers support for the following user categories:
 
 a. Cyber Victims
-
 b. Cyber Experts
 
-Functionalities under Cyber victims login
+Functionalities for Cyber Victims login include:
 
-i. Can register cyber complaint through online complaint form.
+i. Ability to submit cyber complaints through an online complaint form.
+ii. View the status of their submitted complaints.
 
-ii. Display of the status of the registered complaints.  
+Functionalities for Cyber Experts login include:
 
-Functionalities under Cyber experts login
-
-i. Display of all the available cyber cases.
-
-ii.  Accepting of available cyber cases.
-
+i. Access to all available cyber cases.
+ii. Acceptance of available cyber cases.
 iii. Updating the status of ongoing cases.
-
